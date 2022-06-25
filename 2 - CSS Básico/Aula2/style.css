@@ -1,0 +1,12 @@
+body {
+  background: #444;
+}
+
+.foto {
+  width: 200px;
+  border-radius: 50%;
+}
+
+h3 {
+  color: green;
+}

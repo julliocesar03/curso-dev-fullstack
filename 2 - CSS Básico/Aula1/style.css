@@ -1,0 +1,16 @@
+body {
+  background: #dfdf;
+}
+
+.foto {
+  width: 200px;
+  border-radius: 50%;
+}
+
+p {
+  color: #222;
+}
+
+h3 {
+  color: green;
+}

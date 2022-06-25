@@ -1,0 +1,78 @@
+body {
+  background: rgb(226, 226, 226);
+  font-family: 'Oswald', sans-serif;
+  color: #222;
+  margin: 0;
+}
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.perfil {
+  text-align: center;
+  
+}
+
+.foto-principal {
+  width: 200px;
+  border: 2px solid rgb(226, 226, 226);
+  border-radius: 50%;
+  margin: 30px 30px 10px 30px;
+  box-shadow: 0px 0px 10px rgb(77, 76, 76);
+}
+
+.foto-icones {
+  width: 20px;
+}
+
+.social-links{
+  text-decoration: none;
+}
+
+.github {
+  margin: 0 5px;
+}
+
+h1 {
+  margin: 0;
+  letter-spacing: -1px;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+h2 {
+  margin: 0;
+  font-style: italic;
+  color: rgb(66, 66, 66);
+  font-weight: 100;
+  letter-spacing: -1px;
+}
+
+h4{
+  margin-bottom: 5px;
+}
+
+h5{
+  margin-top: 10px;
+  margin-bottom: 1px;
+  font-weight: 100;
+  font-style: italic;
+}
+
+p{
+  line-height: 25px;
+  margin-top: 0;
+}
+
+.job-list {
+  list-style: none;
+  padding-left: 20px;
+}
+
+.footer{
+  margin-top: 40px;
+  background: #222;
+  color: rgb(226, 226, 226);
+  text-align: center;
+  padding: 5px 0;
+}

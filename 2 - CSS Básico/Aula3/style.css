@@ -1,0 +1,19 @@
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.foto {
+  width: 200px;
+  border-radius: 50%;
+}
+
+p {
+  color: #222;
+}
+
+h3 {
+  color: green;
+}
